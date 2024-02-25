@@ -1,0 +1,7 @@
+npm create vite@latest
+npm i
+npm run dev
+npm i @tanstack/react-query
+npm i json-server
+npx json-server src/api/data.json
+npm i @tanstack/react-query-devtools

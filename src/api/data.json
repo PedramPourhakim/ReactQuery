@@ -1,0 +1,66 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "His mother had always taught him",
+      "tags": [
+        "history",
+        "crime"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "He was an expert but not in a discipline",
+      "tags": [
+        "french",
+        "fiction",
+        "English"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Thins aren't going well at all",
+      "tags": [
+        "love",
+        "fiction"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "new post 1",
+      "tags": [
+        "crime",
+        "english",
+        "fiction",
+        "french"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "dqdqsd",
+      "tags": [
+        "english",
+        "fiction"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "yuyikuyityyt",
+      "tags": [
+        "classic",
+        "crime"
+      ]
+    }
+  ],
+  "tags": [
+    "classic",
+    "crime",
+    "english",
+    "fiction",
+    "french",
+    "history",
+    "love",
+    "magical",
+    "mystery"
+  ]
+}
